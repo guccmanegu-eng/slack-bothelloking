@@ -146,7 +146,7 @@ Created by Helloking as a custom Slack bot project.
 
 This project is intended for educational purposes.
 
-Acknowledgements
+## Acknowledgements
 
 This project was developed as part of a Slack bot assignment using Node.js and the Slack Bolt framework.
 
