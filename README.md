@@ -32,7 +32,7 @@ A custom Slack bot built with Node.js and Slack Bolt that provides fun and inter
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/slack-bothelloking.git
+git clone https://github.com/guccmanegu-eng/slack-bothelloking.git
 cd slack-bothelloking
 ```
 
