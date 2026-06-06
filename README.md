@@ -145,3 +145,11 @@ Created by Helloking as a custom Slack bot project.
 ## License
 
 This project is intended for educational purposes.
+
+Acknowledgements
+
+This project was developed as part of a Slack bot assignment using Node.js and the Slack Bolt framework.
+
+During development, ChatGPT was used as a learning and support tool. It helped explain the basics of Slack bot development, Node.js, GitHub deployment, and Linux server management. It also suggested organizing commands into separate files rather than placing everything in a single file, which made the codebase cleaner, easier to maintain, and more scalable as new commands were added.
+
+All code was reviewed, tested, and integrated into the final project by me.
