@@ -8,6 +8,8 @@ const catfact = require("./commands/catfact");
 const quote = require("./commands/quote");
 const roll = require("./commands/roll");
 const coinflip = require("./commands/coinflip");
+const dogfact = require("./commands/dogfact");
+const advice = require("./commands/advice");
 
 const app = new App({
   token: process.env.SLACK_BOT_TOKEN,
@@ -21,6 +23,8 @@ app.command("/helloking-catfact", catfact);
 app.command("/helloking-quote", quote);
 app.command("/helloking-roll", roll);
 app.command("/helloking-coinflip", coinflip);
+app.command("/helloking-dogfact", dogfact);
+app.command("/helloking-advice", advice);
 
 (async () => {
   try {
